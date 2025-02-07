@@ -10,9 +10,9 @@ Data processing and visualisation workflow for analysis of gprMax simulation out
 ## Associated Works:
 This work is formally published in the manuscript: 
 
-McDonald T, Plattner A, Warren C, Robinson M, Tian G. 3D Visualisation of New Hybrid-Rotational Ground Penetrating Radar For Subsurface Inspection of Transport Infrastructure. IEEE Transactions on Geoscience and Remote Sensing 2025, TGRS-2024-05453. In Press.
+T. McDonald, A. Plattner, C. Warren, M. Robinson, and G. Tian, "3D visualisation of new hybrid-rotational ground penetrating radar for subsurface inspection of transport infrastructure," IEEE Transactions on Geoscience and Remote Sensing, 2025.
 
-DOI: 10.1109/TGRS.2025.3530758
+DOI: [10.1109/TGRS.2025.3530758](https://doi.org/10.1109/TGRS.2025.3530758)
 
 Codes published are the result of the below PhD Research Project supported by UK EPSRC Grant EPT5179141
 for Newcastle University (UK): 
